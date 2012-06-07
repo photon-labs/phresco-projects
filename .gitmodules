@@ -67,3 +67,6 @@
 [submodule "java-webservice-eshop"]
 	path = java-webservice-eshop
 	url = https://github.com/phresco/java-webservice-eshop.git
+[submodule "phresco-build-scripts"]
+	path = phresco-build-scripts
+	url = https://github.com/phresco/phresco-build-scripts.git
