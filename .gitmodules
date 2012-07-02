@@ -73,3 +73,6 @@
 [submodule "nodejs-mongodb-eshop-ws"]
 	path = nodejs-mongodb-eshop-ws
 	url = https://github.com/phresco/nodejs-mongodb-eshop-ws.git
+[submodule "jquery-widget-hw"]
+	path = jquery-widget-hw
+	url = https://github.com/phresco/jquery-widget-hw.git
