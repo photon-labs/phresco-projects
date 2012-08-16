@@ -64,3 +64,6 @@
 [submodule "widget-hw"]
 	path = widget-hw
 	url = https://github.com/phresco/widget-hw
+[submodule "java-webservice-eshop"]
+	path = java-webservice-eshop
+	url = https://github.com/phresco/java-webservice-eshop.git
