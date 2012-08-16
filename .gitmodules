@@ -1,0 +1,66 @@
+[submodule "android-hybrid-eshop"]
+	path = android-hybrid-eshop
+	url = https://github.com/phresco/android-hybrid-eshop.git
+[submodule "android-hybrid-hw"]
+	path = android-hybrid-hw
+	url = https://github.com/phresco/android-hybrid-hw.git
+[submodule "android-native-hw"]
+	path = android-native-hw
+	url = https://github.com/phresco/android-native-hw.git
+[submodule "android-native-shoppingcart"]
+	path = android-native-shoppingcart
+	url = https://github.com/phresco/android-native-shoppingcart.git
+[submodule "iphone-hybrid-hw"]
+	path = iphone-hybrid-hw
+	url = https://github.com/phresco/iphone-hybrid-hw.git
+[submodule "iphone-hybrid-shoppingcart"]
+	path = iphone-hybrid-shoppingcart
+	url = https://github.com/phresco/iphone-hybrid-shoppingcart.git
+[submodule "iphone-native-shoppingcart"]
+	path = iphone-native-shoppingcart
+	url = https://github.com/phresco/iphone-native-shoppingcart.git
+[submodule "iphone-native-hw"]
+	path = iphone-native-hw
+	url = https://github.com/phresco/iphone-native-hw.git
+[submodule "drupal7-eshop"]
+	path = drupal7-eshop
+	url = https://github.com/phresco/drupal7-eshop.git
+[submodule "drupal7-hw"]
+	path = drupal7-hw
+	url = https://github.com/phresco/drupal7-hw.git
+[submodule "sharepoint-resource-management"]
+	path = sharepoint-resource-management
+	url = https://github.com/phresco/sharepoint-resource-management.git
+[submodule "sharepoint-hw"]
+	path = sharepoint-hw
+	url = https://github.com/phresco/sharepoint-hw.git
+[submodule "php-blog"]
+	path = php-blog
+	url = https://github.com/phresco/php-blog.git
+[submodule "php-hw"]
+	path = php-hw
+	url = https://github.com/phresco/php-hw.git
+[submodule "java-webservice-hw"]
+	path = java-webservice-hw
+	url = https://github.com/phresco/java-webservice-hw.git
+[submodule "jquery-widget-hw"]
+	path = jquery-widget-hw
+	url = https://github.com/phresco/jquery-widget-hw.git
+[submodule "mobile-widget-eshop"]
+	path = mobile-widget-eshop
+	url = https://github.com/phresco/mobile-widget-eshop.git
+[submodule "mobile-widget-hw"]
+	path = mobile-widget-hw
+	url = https://github.com/phresco/mobile-widget-hw.git
+[submodule "nodejs-webservice-eshop"]
+	path = nodejs-webservice-eshop
+	url = https://github.com/phresco/nodejs-webservice-eshop.git
+[submodule "nodejs-webservice-hw"]
+	path = nodejs-webservice-hw
+	url = https://github.com/phresco/nodejs-webservice-hw
+[submodule "widget-eshop"]
+	path = widget-eshop
+	url = https://github.com/phresco/widget-eshop.git
+[submodule "widget-hw"]
+	path = widget-hw
+	url = https://github.com/phresco/widget-hw
